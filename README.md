@@ -41,11 +41,10 @@ This application is a simple rule engine that allows users to create, combine, a
 ## Testing
 
 Make sure to test all endpoints using Postman or through the provided UI.
+# Example of creating a rule using Postman
+![create](https://github.com/user-attachments/assets/4c24d6ec-0730-40ef-97b8-8362c7427659)
+# Example of combining multiple rules using Postman
+![combine](https://github.com/user-attachments/assets/748b0114-724e-4382-8871-8ca630d0d64e)
+# Example of evaluating a JSON user input to validate rules
+![evaluate](https://github.com/user-attachments/assets/ff719a79-18ad-4f02-8fcd-706a819030e7)
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests for any improvements or features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

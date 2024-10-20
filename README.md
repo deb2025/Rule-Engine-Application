@@ -108,7 +108,7 @@ Make sure to test all endpoints using Postman or through the provided UI.
 ![create](https://github.com/user-attachments/assets/4c24d6ec-0730-40ef-97b8-8362c7427659)
 # Example of testing combination of multiple rules using Postman
 ![combine](https://github.com/user-attachments/assets/748b0114-724e-4382-8871-8ca630d0d64e)
-# Example of testing evaluation a JSON user input to validate rules
+# Example of testing evaluation of a JSON user input to validate rules using Postman
 ![evaluate](https://github.com/user-attachments/assets/ff719a79-18ad-4f02-8fcd-706a819030e7)
 
 

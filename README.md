@@ -6,18 +6,18 @@ This application is a simple rule engine that allows users to create, combine, a
 
 ## Features
 
-- Create rules using a simple syntax.
+- Create rules using a simple syntax. (Example input is given below)
 - ```Example Rule to create -
   "((age > 30 AND department = 'Sales') OR (age < 25 AND department = 'Marketing')) AND (salary > 50000 OR experience > 5)"
   ```
-- Combine multiple rules into one.
+- Combine multiple rules into one. (Example input is given below)
 - ```Example of rule to combine with above -
   [
     "((age > 30 AND department = 'Sales'))",
     "((age < 25 AND department = 'Marketing'))"
   ]
   ```
-- Evaluate rules against user-defined data.
+- Evaluate rules against user-defined data. (Example input is given below)
 - ```Example of the JSON input data to validate the rules created
   {
     "ast": {
